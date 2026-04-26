@@ -1,0 +1,8 @@
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.env
+submission.csv
+test_submission_file.csv
